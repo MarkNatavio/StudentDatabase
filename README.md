@@ -1,5 +1,10 @@
 # StudentDatabase
 
+============================================
+* THIS PROGRAM WAS MADE USING INTELIJ IDEA *
+============================================
+
+
 1. Consider the Student database and Listing 25.2 in Chapter 25 of the textbook. Your tasks are:
   b. Amend the database to include the following Tables:
     Students(empID, firstName, lastName, email, sex)
